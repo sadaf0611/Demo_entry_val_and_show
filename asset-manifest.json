@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Demo_entry_val_and_show/static/css/main.7c584c91.css",
+    "main.js": "/Demo_entry_val_and_show/static/js/main.528543b2.js",
+    "index.html": "/Demo_entry_val_and_show/index.html",
+    "main.7c584c91.css.map": "/Demo_entry_val_and_show/static/css/main.7c584c91.css.map",
+    "main.528543b2.js.map": "/Demo_entry_val_and_show/static/js/main.528543b2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c584c91.css",
+    "static/js/main.528543b2.js"
+  ]
+}
